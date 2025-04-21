@@ -1,4 +1,4 @@
-{
+const jsonData = {
   "posts": [
     {
       "id": 1,
@@ -15,4 +15,4 @@
       "avatar": "https://avatars.mds.yandex.net/i?id=75470df02c758bfe2232ce76125952d5e64669da-4120172-images-thumbs&n=13"
     }
   ]
-}
+};
